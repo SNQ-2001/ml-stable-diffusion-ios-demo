@@ -89,4 +89,10 @@ fastlane/test_output
 
 iOSInjectionProject/
 
+UserInterfaceState.xcuserstate
+
+.DS_Store
+
+*.swp
+
 coreml-stable-diffusion-v1-4_original_compiled/
